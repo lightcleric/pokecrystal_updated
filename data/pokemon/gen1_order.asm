@@ -254,5 +254,6 @@ Pokered_MonIndices:
 	db GLACEON
 	db GLACEON
 	db GLACEON
+	db GLACEON
 
 	assert_table_length NUM_POKEMON + 1
