@@ -1,67 +1,59 @@
 AnimationIdlePointers:
 	table_width 2
-	dw BulbasaurAnimationIdle
-	dw IvysaurAnimationIdle
-	dw VenusaurAnimationIdle
-	dw CharmanderAnimationIdle
-	dw CharmeleonAnimationIdle
-	dw CharizardAnimationIdle
-	dw SquirtleAnimationIdle
-	dw WartortleAnimationIdle
-	dw BlastoiseAnimationIdle
-	dw CaterpieAnimationIdle
-	dw MetapodAnimationIdle
-	dw ButterfreeAnimationIdle
-	dw WeedleAnimationIdle
-	dw KakunaAnimationIdle
-	dw BeedrillAnimationIdle
-	dw PidgeyAnimationIdle
-	dw PidgeottoAnimationIdle
-	dw PidgeotAnimationIdle
-	dw RattataAnimationIdle
-	dw RaticateAnimationIdle
-	dw SpearowAnimationIdle
-	dw FearowAnimationIdle
-	dw EkansAnimationIdle
-	dw ArbokAnimationIdle
+	dw ChikoritaAnimationIdle
+	dw BayleefAnimationIdle
+	dw MeganiumAnimationIdle
+	dw CyndaquilAnimationIdle
+	dw QuilavaAnimationIdle
+	dw TyphlosionAnimationIdle
+	dw TotodileAnimationIdle
+	dw CroconawAnimationIdle
+	dw FeraligatrAnimationIdle
+	dw PikipekAnimationIdle
+	dw TrumbeakAnimationIdle
+	dw ToucannonAnimationIdle
+	dw BunearyAnimationIdle
+	dw LopunnyAnimationIdle
 	dw PikachuAnimationIdle
 	dw RaichuAnimationIdle
-	dw SandshrewAnimationIdle
-	dw SandslashAnimationIdle
-	dw NidoranFAnimationIdle
-	dw NidorinaAnimationIdle
-	dw NidoqueenAnimationIdle
-	dw NidoranMAnimationIdle
-	dw NidorinoAnimationIdle
-	dw NidokingAnimationIdle
-	dw ClefairyAnimationIdle
-	dw ClefableAnimationIdle
-	dw VulpixAnimationIdle
-	dw NinetalesAnimationIdle
-	dw JigglypuffAnimationIdle
-	dw WigglytuffAnimationIdle
 	dw ZubatAnimationIdle
 	dw GolbatAnimationIdle
-	dw OddishAnimationIdle
-	dw GloomAnimationIdle
-	dw VileplumeAnimationIdle
-	dw ParasAnimationIdle
-	dw ParasectAnimationIdle
+	dw CrobatAnimationIdle
+	dw SandshrewAnimationIdle
+	dw SandslashAnimationIdle
+	dw CutieflyAnimationIdle
+	dw RibombeeAnimationIdle
+	dw RoseliaAnimationIdle
+	dw RoseradeAnimationIdle
+	dw ShelmetAnimationIdle
+	dw EscavalierAnimationIdle
+	dw ClefairyAnimationIdle
+	dw ClefableAnimationIdle
+	dw CroagunkAnimationIdle
+	dw ToxicroakAnimationIdle
+	dw JoltikAnimationIdle
+	dw GalvantulaAnimationIdle
+	dw TimburrAnimationIdle
+	dw GurdurrAnimationIdle
+	dw ConkeldurrAnimationIdle
+	dw SableyeAnimationIdle
+	dw FrillishAnimationIdle
+	dw JellicentAnimationIdle
 	dw VenonatAnimationIdle
 	dw VenomothAnimationIdle
-	dw DiglettAnimationIdle
-	dw DugtrioAnimationIdle
-	dw MeowthAnimationIdle
-	dw PersianAnimationIdle
+	dw MudbrayAnimationIdle
+	dw MudsdaleAnimationIdle
+	dw FomantisAnimationIdle
+	dw LurantisAnimationIdle
 	dw PsyduckAnimationIdle
 	dw GolduckAnimationIdle
-	dw MankeyAnimationIdle
-	dw PrimeapeAnimationIdle
+	dw SkorupiAnimationIdle
+	dw DrapionAnimationIdle
 	dw GrowlitheAnimationIdle
 	dw ArcanineAnimationIdle
-	dw PoliwagAnimationIdle
-	dw PoliwhirlAnimationIdle
-	dw PoliwrathAnimationIdle
+	dw FlabebeAnimationIdle
+	dw FloetteAnimationIdle
+	dw FlorgesAnimationIdle
 	dw AbraAnimationIdle
 	dw KadabraAnimationIdle
 	dw AlakazamAnimationIdle
@@ -80,53 +72,68 @@ AnimationIdlePointers:
 	dw RapidashAnimationIdle
 	dw SlowpokeAnimationIdle
 	dw SlowbroAnimationIdle
+	dw SlowkingAnimationIdle
 	dw MagnemiteAnimationIdle
 	dw MagnetonAnimationIdle
-	dw FarfetchDAnimationIdle
+	dw MagnezoneAnimationIdle
 	dw DoduoAnimationIdle
 	dw DodrioAnimationIdle
-	dw SeelAnimationIdle
-	dw DewgongAnimationIdle
+	dw SwabluAnimationIdle
+	dw AltariaAnimationIdle
 	dw GrimerAnimationIdle
 	dw MukAnimationIdle
-	dw ShellderAnimationIdle
-	dw CloysterAnimationIdle
+	dw NuzleafAnimationIdle
+	dw ShiftryAnimationIdle
+	dw DrifloonAnimationIdle
+	dw DrifblimAnimationIdle
+	dw TyruntAnimationIdle
+	dw TyrantrumAnimationIdle
 	dw GastlyAnimationIdle
 	dw HaunterAnimationIdle
 	dw GengarAnimationIdle
 	dw OnixAnimationIdle
-	dw DrowzeeAnimationIdle
-	dw HypnoAnimationIdle
-	dw KrabbyAnimationIdle
-	dw KinglerAnimationIdle
-	dw VoltorbAnimationIdle
-	dw ElectrodeAnimationIdle
+	dw SteelixAnimationIdle
+	dw StarlyAnimationIdle
+	dw StaraviaAnimationIdle
+	dw StaraptorAnimationIdle
+	dw MawileAnimationIdle
+	dw DarumakaAnimationIdle
+	dw DarmanitanAnimationIdle
 	dw ExeggcuteAnimationIdle
 	dw ExeggutorAnimationIdle
-	dw CuboneAnimationIdle
-	dw MarowakAnimationIdle
-	dw HitmonleeAnimationIdle
-	dw HitmonchanAnimationIdle
-	dw LickitungAnimationIdle
+	dw SkrelpAnimationIdle
+	dw DragalgeAnimationIdle
+	dw LillipupAnimationIdle
+	dw HerdierAnimationIdle
+	dw StoutlandAnimationIdle
+	dw FroslassAnimationIdle
 	dw KoffingAnimationIdle
 	dw WeezingAnimationIdle
 	dw RhyhornAnimationIdle
 	dw RhydonAnimationIdle
+	dw RhyperiorAnimationIdle
 	dw ChanseyAnimationIdle
+	dw BlisseyAnimationIdle
 	dw TangelaAnimationIdle
-	dw KangaskhanAnimationIdle
+	dw TangrowthAnimationIdle
+	dw StunfiskAnimationIdle
 	dw HorseaAnimationIdle
 	dw SeadraAnimationIdle
-	dw GoldeenAnimationIdle
-	dw SeakingAnimationIdle
+	dw KingdraAnimationIdle
+	dw PawniardAnimationIdle
+	dw BisharpAnimationIdle
 	dw StaryuAnimationIdle
 	dw StarmieAnimationIdle
 	dw MrMimeAnimationIdle
 	dw ScytherAnimationIdle
+	dw ScizorAnimationIdle
 	dw JynxAnimationIdle
 	dw ElectabuzzAnimationIdle
+	dw ElectivireAnimationIdle
 	dw MagmarAnimationIdle
-	dw PinsirAnimationIdle
+	dw MagmortarAnimationIdle
+	dw LarvestaAnimationIdle
+	dw VolcaronaAnimationIdle
 	dw TaurosAnimationIdle
 	dw MagikarpAnimationIdle
 	dw GyaradosAnimationIdle
@@ -136,12 +143,15 @@ AnimationIdlePointers:
 	dw VaporeonAnimationIdle
 	dw JolteonAnimationIdle
 	dw FlareonAnimationIdle
-	dw PorygonAnimationIdle
-	dw OmanyteAnimationIdle
-	dw OmastarAnimationIdle
-	dw KabutoAnimationIdle
-	dw KabutopsAnimationIdle
-	dw AerodactylAnimationIdle
+	dw EspeonAnimationIdle
+	dw UmbreonAnimationIdle
+	dw LeafeonAnimationIdle
+	dw SylveonAnimationIdle
+	dw GlaceonAnimationIdle
+	dw RaltsAnimationIdle
+	dw KirliaAnimationIdle
+	dw GardevoirAnimationIdle
+	dw GalladeAnimationIdle
 	dw SnorlaxAnimationIdle
 	dw ArticunoAnimationIdle
 	dw ZapdosAnimationIdle
@@ -150,98 +160,88 @@ AnimationIdlePointers:
 	dw DragonairAnimationIdle
 	dw DragoniteAnimationIdle
 	dw MewtwoAnimationIdle
-	dw MewAnimationIdle
-	dw ChikoritaAnimationIdle
-	dw BayleefAnimationIdle
-	dw MeganiumAnimationIdle
-	dw CyndaquilAnimationIdle
-	dw QuilavaAnimationIdle
-	dw TyphlosionAnimationIdle
-	dw TotodileAnimationIdle
-	dw CroconawAnimationIdle
-	dw FeraligatrAnimationIdle
-	dw SentretAnimationIdle
-	dw FurretAnimationIdle
-	dw HoothootAnimationIdle
-	dw NoctowlAnimationIdle
+	dw ZangooseAnimationIdle
+	dw LotadAnimationIdle
+	dw LombreAnimationIdle
+	dw LudicoloAnimationIdle
+	dw HawluchaAnimationIdle
 	dw LedybaAnimationIdle
 	dw LedianAnimationIdle
 	dw SpinarakAnimationIdle
 	dw AriadosAnimationIdle
-	dw CrobatAnimationIdle
 	dw ChinchouAnimationIdle
 	dw LanturnAnimationIdle
-	dw PichuAnimationIdle
-	dw CleffaAnimationIdle
-	dw IgglybuffAnimationIdle
+	dw LitwickAnimationIdle
+	dw LampentAnimationIdle
+	dw ChandelureAnimationIdle
 	dw TogepiAnimationIdle
 	dw TogeticAnimationIdle
-	dw NatuAnimationIdle
-	dw XatuAnimationIdle
+	dw TogekissAnimationIdle
+	dw SwirlixAnimationIdle
+	dw SlurpuffAnimationIdle
 	dw MareepAnimationIdle
 	dw FlaaffyAnimationIdle
 	dw AmpharosAnimationIdle
-	dw BellossomAnimationIdle
 	dw MarillAnimationIdle
 	dw AzumarillAnimationIdle
 	dw SudowoodoAnimationIdle
-	dw PolitoedAnimationIdle
-	dw HoppipAnimationIdle
-	dw SkiploomAnimationIdle
-	dw JumpluffAnimationIdle
-	dw AipomAnimationIdle
-	dw SunkernAnimationIdle
-	dw SunfloraAnimationIdle
+	dw PinsirAnimationIdle
+	dw TynamoAnimationIdle
+	dw EelektrikAnimationIdle
+	dw EelektrossAnimationIdle
+	dw AbsolAnimationIdle
+	dw ShroomishAnimationIdle
+	dw BreloomAnimationIdle
 	dw YanmaAnimationIdle
+	dw YanmegaAnimationIdle
 	dw WooperAnimationIdle
 	dw QuagsireAnimationIdle
-	dw EspeonAnimationIdle
-	dw UmbreonAnimationIdle
 	dw MurkrowAnimationIdle
-	dw SlowkingAnimationIdle
+	dw HonchkrowAnimationIdle
 	dw MisdreavusAnimationIdle
+	dw MismagiusAnimationIdle
 	dw UnownAnimationIdle
-	dw WobbuffetAnimationIdle
-	dw GirafarigAnimationIdle
 	dw PinecoAnimationIdle
 	dw ForretressAnimationIdle
-	dw DunsparceAnimationIdle
+	dw StuffulAnimationIdle
+	dw BewearAnimationIdle
 	dw GligarAnimationIdle
-	dw SteelixAnimationIdle
+	dw GliscorAnimationIdle
 	dw SnubbullAnimationIdle
 	dw GranbullAnimationIdle
-	dw QwilfishAnimationIdle
-	dw ScizorAnimationIdle
 	dw ShuckleAnimationIdle
+	dw BergmiteAnimationIdle
+	dw AvaluggAnimationIdle
 	dw HeracrossAnimationIdle
 	dw SneaselAnimationIdle
+	dw WeavileAnimationIdle
 	dw TeddiursaAnimationIdle
 	dw UrsaringAnimationIdle
-	dw SlugmaAnimationIdle
-	dw MagcargoAnimationIdle
+	dw NoibatAnimationIdle
+	dw NoivernAnimationIdle
 	dw SwinubAnimationIdle
 	dw PiloswineAnimationIdle
-	dw CorsolaAnimationIdle
-	dw RemoraidAnimationIdle
-	dw OctilleryAnimationIdle
-	dw DelibirdAnimationIdle
-	dw MantineAnimationIdle
+	dw MamoswineAnimationIdle
+	dw MakuhitaAnimationIdle
+	dw HariyamaAnimationIdle
 	dw SkarmoryAnimationIdle
 	dw HoundourAnimationIdle
 	dw HoundoomAnimationIdle
-	dw KingdraAnimationIdle
-	dw PhanpyAnimationIdle
-	dw DonphanAnimationIdle
+	dw SandileAnimationIdle
+	dw KrokorokAnimationIdle
+	dw KrookodileAnimationIdle
+	dw PorygonAnimationIdle
 	dw Porygon2AnimationIdle
-	dw StantlerAnimationIdle
+	dw PorygonzAnimationIdle
 	dw SmeargleAnimationIdle
-	dw TyrogueAnimationIdle
-	dw HitmontopAnimationIdle
-	dw SmoochumAnimationIdle
-	dw ElekidAnimationIdle
-	dw MagbyAnimationIdle
+	dw CryogonalAnimationIdle
+	dw GoomyAnimationIdle
+	dw SliggooAnimationIdle
+	dw GoodraAnimationIdle
 	dw MiltankAnimationIdle
-	dw BlisseyAnimationIdle
+	dw BeldumAnimationIdle
+	dw MetangAnimationIdle
+	dw MetagrossAnimationIdle
 	dw RaikouAnimationIdle
 	dw EnteiAnimationIdle
 	dw SuicuneAnimationIdle
@@ -251,4 +251,6 @@ AnimationIdlePointers:
 	dw LugiaAnimationIdle
 	dw HoOhAnimationIdle
 	dw CelebiAnimationIdle
+	dw JirachiAnimationIdle
+	dw DianceAnimationIdle
 	assert_table_length NUM_POKEMON
