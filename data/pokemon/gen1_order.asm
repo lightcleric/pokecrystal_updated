@@ -253,6 +253,5 @@ Pokered_MonIndices:
 	db BEWEAR
 	db GLACEON
 	db GLACEON
-	db GLACEON
 
 	assert_table_length NUM_POKEMON + 1
